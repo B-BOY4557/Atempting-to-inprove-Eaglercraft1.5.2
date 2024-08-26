@@ -16,6 +16,8 @@ enjoy the bace build while its here but soon it will be completed :3
 
 progress:
 
-finding texture files
-replaceing links and fuctions
-trying to research how to make this work on a desktop and use the cpu,gpu and ram. not web gl and some cpu and 1.5gb of ram
+finding texture files.
+
+replaceing links and fuctions.
+
+trying to research how to make this work on a desktop and use the cpu,gpu and ram. not web gl and some cpu and 1.5gb of ram.
