@@ -10,3 +10,12 @@ bare with me here as my plan is to finish this by the end of the month ang get i
 your desktop vis a html chromeium thing sorta like the snapchat and discord desktop client... if i can figure out how to do that, gamemaker or unity might have it built in lol.
 
 enjoy the bace build while its here but soon it will be completed :3
+
+
+
+
+progress:
+
+finding texture files
+replaceing links and fuctions
+trying to research how to make this work on a desktop and use the cpu,gpu and ram. not web gl and some cpu and 1.5gb of ram
